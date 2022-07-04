@@ -45,3 +45,38 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.selected-color{
+
+    color: orange;
+}
+
+.experience-area{
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.experience-item{
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+ 
+}
+#full-stack-developer{
+
+    border-left: 7px solid tomato;
+}
+
+#baby-web-developer{
+
+    border-left: 7px solid blue;
+}
+
+footer p{
+
+    text-align: center;
+}
